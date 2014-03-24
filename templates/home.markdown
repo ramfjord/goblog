@@ -1,0 +1,7 @@
+# Welcome to Thomas' home page
+
+this is written in markdown
+
+
+
+awwwww yeeaaaaaahhhh
